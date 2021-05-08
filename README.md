@@ -9,5 +9,5 @@ The SCUT-RIFV Dataset is publicly available (free of charge) to the research com
 
 We have made part of the dataset available for download in the repo in order to get a detailed view of this data. Those interested in obtaining the whole SCUT-RIFV Dataset should download [release agreement](https://github.com/SCUT-BIP-Lab/SCUT-RIFV/blob/main/SCUT-RIFV%20Database%20Release%20Agreement.docx), and send by e-mail one signed and scanned copy to <scutbip@outlook.com>.
 
-While reporting results using the SCUT LFMB-3DPVFV Dataset, please cite the following article:  
+While reporting results using the SCUT-RIFV Dataset, please cite the following article:  
 Study on Reflection-Based Imaging Finger Vein Recognition
